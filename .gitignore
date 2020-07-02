@@ -1,5 +1,8 @@
 .ipynb_checkpoints/*
-transformers/*
 .DS_Store
 venv/
 .idea/
+runs/
+output/
+
+**/cached_*
