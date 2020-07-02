@@ -1,0 +1,5 @@
+.ipynb_checkpoints/*
+transformers/*
+.DS_Store
+venv/
+.idea/
