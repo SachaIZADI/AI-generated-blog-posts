@@ -18,11 +18,15 @@ Here is an idea of what the interface looks like at the end.
 Here are some examples sampled from the model :
 
 \[Input\]: `Data science and machine learning have become`
+
 \[Output\]: 
 > Data science and machine learning have become increasingly important in the field of data science. In this article, we will look at a few of the most popular applications of these technologies, and how they can be used to improve the quality of your data.
 > What is Data Science and Machine Learning? Data science refers to the process by which data is collected, stored, analyzed and analyzed. It is a process that takes place over a period of time, typically between two to three years. Data scientists use
 
+
+
 \[Input\]: `If you have ever wondered why data science`
+
 \[Output\]: 
 > If you have ever wondered why data science is so important, here are a few reasons. 
 > Data science can help us understand the world around us. We can learn more about ourselves, our environment, and how we interact with others. This is especially true when it comes to health, education, health care, or the environment. The more data we have, the more likely we are to be able to predict what will happen in the future. In other words, we can better understand
