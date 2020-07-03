@@ -39,9 +39,6 @@ def main():
         st.text("Write something")
         return
 
-    #generated_article = generate_content(input_str, tokenizer, model)
-    #st.text(generated_article)
-
     generated_article = generate_article(input_str, tokenizer, model)
     st.write(generated_article, unsafe_allow_html=True)
 

@@ -70,8 +70,3 @@ class Data(object):
 
         with open(f'{dst}.txt', 'w+') as f:
             f.write(full_content)
-
-
-
-
-
